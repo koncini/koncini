@@ -1,9 +1,9 @@
 ﻿<!-- Greeting -->
 ### Greetings
 <!--Introduction -->
-Electronic Engineer with wide background in technological sciences. Highly Analytical, dynamic, and resourceful. Able to face and lead changes in the management of technological tools for the fulfillment of large-scale projects.
+Electronic Engineer with a wide background in technological sciences. Highly Analytical, dynamic, and resourceful. Able to face and lead changes in the management of technological tools for the fulfillment of large-scale projects.
 
-Passionate and eager to learn and sefl-improvement looking for the correct fullfillment of goals within a stablished time frema, beeing able to surpass difficult times, capable of making decisions the increase the probability of success. Conssciousof adding value to the team and the company using the best industry practices and innovating with common sense and professionalism. 
+Passionate and eager to learn and improve looking for the correct fulfillment of goals within an established time frame, being able to surpass difficult times, capable of making decisions that increase the probability of success. Conscious of adding value to the team and the company using the best industry practices and innovating with common sense and professionalism.
 
 Hablo español fluido (lengua nativa), inglés (diplomado universitario) (Nivel B2)
 
